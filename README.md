@@ -6,7 +6,7 @@ Dockerfiles for PBC, the Pairing-Based Cryptography library (https://crypto.stan
 
 # docker-pypbc
 
-基于 docker-pbc 搭建 pypbc环境
+基于 docker-pbc 搭建 pypbc环境，同时也有GMSSL的环境。
 
 ## buildpack-deps
 
